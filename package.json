@@ -1,0 +1,13 @@
+{
+  "name": "learning-scopes",
+  "version": "1.0.0",
+  "description": "## Dynamic scope Variables can be accessed from all execution stack, this type of scope is strongly deprecated because harm encapsulation and make easily to make mistakes.",
+  "main": "clojure.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
